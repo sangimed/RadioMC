@@ -2,7 +2,7 @@
 
 ![RadioMC Logo](RadioMC.png)
 
-A Minecraft server plugin for listening to radio.
+A Minecraft server plugin for listening to radio (craftable item).
 
 ## BRAINSTORMING
 
